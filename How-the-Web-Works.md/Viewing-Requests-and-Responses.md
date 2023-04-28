@@ -1,0 +1,1 @@
+Would you please evaluate the transcript I provide for its key terms, ideas, concepts and their defintions. Would you also please include the video title “Viewing Requests and Responses”, the subsection title "How the Web Works", and the section title "How the Web Works"?
