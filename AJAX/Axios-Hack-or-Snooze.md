@@ -1,0 +1,1 @@
+Would you please evaluate the transcript I provide for its key terms, ideas, concepts and their defintions. Would you also please include the video title “Axios Hack or Snooze Example”, the subsection title "AJAX", and the section title "How the Web Works"?
